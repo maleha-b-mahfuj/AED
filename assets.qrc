@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/aed1.png</file>
+        <file>assets/aed2.png</file>
+        <file>assets/aed3.png</file>
+        <file>assets/aed4.png</file>
+        <file>assets/aed5.png</file>
+        <file>assets/offButton.png</file>
+        <file>assets/onButton.png</file>
+        <file>assets/scissors.png</file>
+    </qresource>
+</RCC>
